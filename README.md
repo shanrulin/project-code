@@ -1,4 +1,4 @@
-# project-code
+# BIA650 project-code
 Portfolio Optimization by Sector: 
 - method 1: maximized the portfolio Sharpe Ratio as objective
 - method 2: reformulated objective into a convex programming problem (easy implement in practice)
